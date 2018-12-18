@@ -45,6 +45,7 @@ h2,h3{
     color: white;
     text-decoration: none;
     font-size: 17px;
+    margin: 3px;
 }
 
 .navbar a:hover {
@@ -71,21 +72,24 @@ h2,h3{
     margin-top: 8px;
     font-size: 15px;
     border: none;
+    float: right;
 }
 
 .navbar .navbar.search-container button:hover {
     background: #ccc;
+    float: right;
+    
 }
 
 @media screen and (max-width:600px) {
     .navbar.search-container {
-        float: none;
+        float: right;
     }
 
     .navbar a,
     .navbar input[type=text],
     .navbar.search-container button{
-        float: none;
+        float: right;
         display: block;
         text-align:left;
         width:100%;
@@ -94,5 +98,6 @@ h2,h3{
     }
     .navbar input[type=text]{
         border:1px solid #ccc;
+        float: right;
     }
 }
