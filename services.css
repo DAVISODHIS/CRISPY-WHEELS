@@ -108,3 +108,7 @@ h3 {
         float: right;
     }
 }
+
+img {
+    border: 10px solid black;
+}
