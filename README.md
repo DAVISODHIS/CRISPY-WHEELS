@@ -26,11 +26,11 @@ Target Audience-Everyone.
 
 ## Known bugs
 
-So far no identified bugs but if you get any contact me on [email](crispywheelsauto2018@g mail.com).
+So far no identified bugs but if you get any contact me on [email](crispywheelsauto2018@gmail.com).
 
 ## Contact information
 
-if anyone has question or wants to contribute to the project the please contact me through #0707652291 or at [email](crispywheelsauto2018@g mail.com) .
+if anyone has question or wants to contribute to the project the please contact me through #0707652291 or at [email](crispywheelsauto2018@gmail.com) .
 
 ## Project setup installation
 
