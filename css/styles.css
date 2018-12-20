@@ -1,8 +1,6 @@
 body {
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiuBbbIONAZl9yyYkjUdWH4HTSNMkQkw9cLjCv_vK6dHqMBsroNA);
-font-family: serif;
-font-weight: lighter;
-font-style: italic;
+font-family: 'Indie Flower', cursive;
 }
 
 h1 {
@@ -133,4 +131,7 @@ h1{
     background-color: red;
     color: white;
     text-align: center;
+}
+#col1{
+  background-image: url(https://images.unsplash.com/photo-1516617442634-75371039cb3a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80);
 }
