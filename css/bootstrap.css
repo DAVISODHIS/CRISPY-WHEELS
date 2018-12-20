@@ -1113,7 +1113,7 @@ figure {
   margin: 0;
 }
 img {
-  vertical-align: middle;
+
 }
 .img-responsive,
 .thumbnail > img,
@@ -6101,6 +6101,7 @@ button.close {
   border-width: 0 5px 5px;
   border-bottom-color: #000;
 }
+
 .popover {
   position: absolute;
   top: 0;
